@@ -41,16 +41,15 @@ function enqueue_gs_portfolio_admin_style($screen){
 	
 	if($gsp_s_post_type == 'gs-portfolio'){
 
-		function gs_add_ons_list() {
+		add_action('admin_enqueue_scripts', function(){
 			wp_register_style( 'gsp-admin-fa', plugins_url( '/addons/css/font-awesome.min.css', __FILE__ ),'', '4.2.0', false );	
 			wp_register_style( 'gsp-admin-bootstrap', plugins_url( '/css/gsp-custom-bootstrap.css', __FILE__ ),'', '3.3.1', false );
 
 			wp_enqueue_style( 'gsp-admin-fa' );
 	        wp_enqueue_style( 'gsp-admin-bootstrap' );
-		} 
-	}
 
-	add_action('admin_enqueue_scripts', 'gs_add_ons_list' );
+		} );
+	}
 }
 
 add_action('current_screen', 'enqueue_gs_portfolio_admin_style');
