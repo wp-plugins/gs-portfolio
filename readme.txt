@@ -1,4 +1,4 @@
-=== GS Logo Slider ===
+=== GS Portfolio ===
 Contributors: samdani
 Donate link: http://www.gsamdani.me/contact
 Tags: best portfolio, best portfolio plugin, filterable portfolio, free portfolio, responsive portfolio, image portfolio, portfolio gallery, portfolio plugin, portfolio plugin wordpress, portfolio popup
