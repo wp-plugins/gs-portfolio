@@ -16,6 +16,9 @@ GS Portfolio is a WordPress plugin which creates custom post type to showcase yo
 
 GS Portfolio plugin is simple, flexible & powerful.
 
+### GS Filterable Portfolio by http://www.gsamdani.me
+
+*   [Upgrade to PRO &raquo;](http://www.gsamdani.me/product/gs-portfolio)
 *   [View live Demos &raquo;](http://portfolio.gsamdani.me)
 *   [Documentation &raquo;](http://portfolio.gsamdani.me/documentation)
 *   [Support &raquo;](http://www.gsamdani.me/support)
@@ -37,10 +40,29 @@ Plugin Features
 * All modern browser supported.
 * It's easy to use interface allows you to manage, edit, create, and delete Portfolio with no new knowledge.
 
+Pro Features
+
+* Advance settings panel with all necessary options.
+* Tons of shortcode parameters.
+* Category wise Filtering.
+* 5 different portfolio hover effects.
+* 6 different portfolio popup effects.
+* Custom metabox for external link of portfolio.
+* Text Widget compatible.
+* Works with any WordPress Theme.
+* Easy and user friendly setup.
+* Well documentation and support.
+* And many more.
 
 Shortcode
 
 Basic Usage - Use following shortcode to display Portfolios. `[gs_portfolio]`
+
+Shortcode attributes Usage
+
+`[gs_portfolio posts="10" order="ASC" hover_effect="effect-zoe" popup_effect="mfp-newspaper"]`
+
+More details options lists available at http://www.gsamdani.me/product/gs-portfolio
 
 Confused?
 
