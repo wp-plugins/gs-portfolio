@@ -58,7 +58,7 @@ GS Portfolio plugin is simple, flexible & powerful.
 
 Basic Usage - Use following shortcode to display Portfolios. `[gs_portfolio]`
 
-## Shortcode attributes Usage
+<strong>Shortcode attributes Usage</strong>
 
 `[gs_portfolio posts="10" order="ASC" hover_effect="effect-zoe" popup_effect="mfp-newspaper"]`
 
