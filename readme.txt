@@ -24,7 +24,7 @@ GS Portfolio plugin is simple, flexible & powerful.
 *   [Support &raquo;](http://www.gsamdani.me/support)
 *   [Contact Me &raquo;](http://www.gsamdani.me/contact)
 
-Plugin Features
+## Plugin Features
 
 * Responsive Portfolio
 * Portfolio Shortcode System
@@ -40,7 +40,7 @@ Plugin Features
 * All modern browser supported.
 * It's easy to use interface allows you to manage, edit, create, and delete Portfolio with no new knowledge.
 
-Pro Features
+## Pro Features
 
 * Advance settings panel with all necessary options.
 * Tons of shortcode parameters.
@@ -54,17 +54,17 @@ Pro Features
 * Well documentation and support.
 * And many more.
 
-Shortcode
+## Shortcode
 
 Basic Usage - Use following shortcode to display Portfolios. `[gs_portfolio]`
 
-Shortcode attributes Usage
+## Shortcode attributes Usage
 
 `[gs_portfolio posts="10" order="ASC" hover_effect="effect-zoe" popup_effect="mfp-newspaper"]`
 
 More details options list available at [Shortcode attributes &raquo;](http://www.gsamdani.me/product/gs-portfolio)
 
-Confused?
+## Confused?
 
 *   [View live Demos &raquo;](http://portfolio.gsamdani.me)
 *   [Documentation &raquo;](http://portfolio.gsamdani.me/documentation)
