@@ -62,7 +62,7 @@ Shortcode attributes Usage
 
 `[gs_portfolio posts="10" order="ASC" hover_effect="effect-zoe" popup_effect="mfp-newspaper"]`
 
-More details options lists available at http://www.gsamdani.me/product/gs-portfolio
+More details options list available at [Shortcode attributes &raquo;](http://www.gsamdani.me/product/gs-portfolio)
 
 Confused?
 
