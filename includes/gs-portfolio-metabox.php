@@ -98,41 +98,33 @@ function gs_portfolio_pro_add_meta_box() {
 
 		add_meta_box(
 			'gs_logo_sectionid_pro',
-			__( "GS Logo Slider - PRO" , 'gsportfolio' ),
+			__( "GS Filterable Portfolio - PRO" , 'gsportfolio' ),
 			'gs_portfolio_meta_box_pro',
 			'gs-portfolio'
 		);
 }
-//add_action( 'add_meta_boxes', 'gs_portfolio_pro_add_meta_box' );
+
+add_action( 'add_meta_boxes', 'gs_portfolio_pro_add_meta_box' );
 
 function gs_portfolio_meta_box_pro() {  ?>
 	
 	<p>
-	<h3 style="padding-left:0">Available features at GS Logo Slider - PRO</h3>
+	<h3 style="padding-left:0">Available features at GS Filterable Portfolio - PRO</h3>
     <ol class="">
-    	<li>Advance settings panel with all necessary options.</li>
-		<li>Multiple sliders can be shown from different Logo categories.</li>
-		<li>Slider sliding speed, autoplay pause, navigation, pagination, color settings.</li>
-		<li>Display Logos horizontally or vertically.</li>
-		<li>Control Logo sliding speed.</li>
-		<li>Enable / disable infinite loop.</li>
-		<li>Slide Logos in ticker mode (similar to news scroll).</li>
-		<li>Logo grayscale feature.</li>
-		<li>Logo image size control.</li>
-		<li>Stop on hover control.</li>
-		<li>Display Logo including / excluding Title.</li>
-		<li>Specify target to load the Links</li>
-		<li>Number of logos to move on transition.</li>
-		<li>Tons of shortcode parameters</li>
-		<li>Category wise Logos</li>
-		<li>Great Settings Panel</li>
+		<li>Advance settings panel with all necessary options.</li>
+		<li>Tons of shortcode parameters.</li>
+		<li>Category wise Filtering.</li>
+		<li>5 different portfolio hover effects.</li>
+		<li>6 different portfolio popup effects.</li>
+		<li>Custom metabox for external link of portfolio.</li>
+		<li>Text Widget compatible.</li>
 		<li>Works with any WordPress Theme.</li>
-		<li>Easy and user-friendly setup.</li>
+		<li>Easy and user friendly setup.</li>
 		<li>Well documentation and support.</li>
-    	<li>And many more.</li>
+		<li>And many more.</li>
     </ol>
   </p>
-  <p><a class="button button-primary button-large" href="http://www.gsamdani.me/product/gs-portfolio/addons" target="_blank">Go for PRO</a></p>
+  <p><a class="button button-primary button-large" href="http://www.gsamdani.me/product/gs-portfolio" target="_blank">Go for PRO</a></p>
 <?php
 }
 
