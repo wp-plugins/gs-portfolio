@@ -3,7 +3,7 @@ Contributors: samdani
 Donate link: http://www.gsamdani.me/contact
 Tags: best portfolio, best portfolio plugin, filterable portfolio, free portfolio, responsive portfolio, image portfolio, portfolio gallery, portfolio plugin, portfolio plugin wordpress, portfolio popup
 Requires at least: 3.3
-Tested up to: 4.2.2
+Tested up to: 4.2.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -111,8 +111,12 @@ Default image size set to 600px X 400px.
 WordPress has a great function, do_shortcode(), that will allow you to use shortcodes inside your theme files. For example, to output Portfolios in a Theme file, you would do this: ```<?php echo do_shortcode('[gs_portfolio]'); ?>```
 
 == Screenshots ==
-* Coming soon
-
+1. GS Portfolio output on pages/post after adding shortcode [gs_portfolio]
+2. GS Portfolio output on pages/post after adding shortcode [gs_portfolio hover_effect="effect-zoe" popup_effect="mfp-zoom-out"] At Pro version 5 different hover & popup effects available.
+3. GS Portfolio's output on popup.
+4. GS Portfolios > Add New Portfolio. Then add Portfolio Name, Portfolio Description, Portfolio external URL, Portfolio Categories.
+5. GS Portfolios > All Portfolios. View all Portfolios at a glance.
+6. GS Portfolios > Portfolio Settings (Available only at PRO version)
 
 == Changelog ==
 
